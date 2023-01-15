@@ -1,4 +1,4 @@
-module gitlab.com/cuishuang/godoc-demo
+module github.com/cuishuang/godoc-demo
 
 go 1.19
 
